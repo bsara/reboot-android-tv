@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:context=".AboutActivity"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+
+  <include layout="@layout/include_header" />
+
+  <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+      android:id="@+id/about_content"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="@dimen/activity_margin"
+      android:orientation="vertical">
+
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:text="@string/activity_about_appName"/>
+      <TextView
+        android:id="@+id/about_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:text="@string/activity_about_version" />
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:autoLink="web"
+        android:text="@string/activity_about_copyright" />
+
+      <Space style="@style/AppTheme.Space" />
+
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:autoLink="web"
+        android:text="@string/activity_about_productURL" />
+
+      <Space style="@style/AppTheme.Space" />
+
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearance"
+        android:text="@string/activity_about_description" />
+
+      <Space style="@style/AppTheme.Space" />
+      <Space style="@style/AppTheme.Space" />
+
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:text="@string/activity_about_licenseHeader" />
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:autoLink="web"
+        android:text="@string/activity_about_licenseInfo" />
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="25sp"
+        android:layout_marginTop="5dp"
+        android:onClick="showLicense"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:background="@drawable/actionitem_bkg"
+        android:textColor="@color/textPrimary"
+        android:text="@string/activity_about_viewLicense" />
+
+    </LinearLayout>
+  </ScrollView>
+
+</LinearLayout>

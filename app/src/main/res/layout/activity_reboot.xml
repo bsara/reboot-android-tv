@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  tools:context=".RebootActivity"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+
+
+  <include layout="@layout/include_header" />
+
+
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_reboot" android:text="@string/activity_reboot_actionItem_reboot_text" />
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_rebootBootloader" android:text="@string/activity_reboot_actionItem_rebootBootloader_text" />
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_rebootRecovery" android:text="@string/activity_reboot_actionItem_rebootRecovery_text" />
+
+  <Space style="@style/AppTheme.Space" />
+
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_cancel" android:text="@string/activity_reboot_actionItem_cancel_text" />
+
+  <Space style="@style/AppTheme.Space" />
+
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_settings" android:text="@string/activity_reboot_actionItem_settings_text" />
+  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_about" android:text="@string/activity_reboot_actionItem_about_text" />
+
+
+</LinearLayout>

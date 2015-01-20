@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <CheckBoxPreference
+    android:key="@string/prefs_key_enableMainRebootBanner"
+    android:title="@string/prefs_enableMainRebootBanner"
+    android:defaultValue="true" />
+  <CheckBoxPreference
+    android:key="@string/prefs_key_enableQuickRebootBanner"
+    android:title="@string/prefs_enableQuickRebootBanner"
+    android:defaultValue="true" />
+</PreferenceScreen>
