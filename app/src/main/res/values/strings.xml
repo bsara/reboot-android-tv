@@ -30,6 +30,7 @@
   <string name="activity_about_viewLicense">View Full License</string>
 
   <string name="activity_license_title">@string/common_license</string>
+  <string name="activity_license_url">http://bsara.github.io/reboot-android-tv/license</string>
 
   <string name="activity_prefs_title">@string/common_settings</string>
 
