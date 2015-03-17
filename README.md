@@ -24,7 +24,6 @@ Because the Nexus Player does not come with any reboot functionality out of the 
 
 - Google Play Store: ***TODO***
 - APK: ***TODO***
-- Source Code: ***TODO***
 - Past Releases: ***TODO***
 
 
