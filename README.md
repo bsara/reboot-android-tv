@@ -3,12 +3,22 @@ Reboot Android TV
 
 [![Licensed under the CPOL v1.02](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat)](#license)
 
-
-## What is it?
-
 This app allows you to reboot your Android TV device from the launcher home screen rather than sideloading an already existing app that won't show up on the default Android TV launcher.
 
 Please note that this app is for **ROOTED DEVICES ONLY**.
+
+#### Current Features
+
+- Reboot
+- Reboot into Bootloader
+- Reboot into Recovery
+
+#### Upcoming Features
+
+- Quick Reboot
+- Enable/Disable TV Banner Icons for both full & quick reboot menus
+
+
 
 ### Screenshots
 
@@ -24,7 +34,6 @@ Because the Nexus Player does not come with any reboot functionality out of the 
 
 - Google Play Store: ***TODO***
 - APK: ***TODO***
-- Past Releases: ***TODO***
 
 
 ## License

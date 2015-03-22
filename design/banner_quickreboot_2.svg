@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="180"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="banner_quickreboot.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="251.95554"
+     inkscape:cy="38.041702"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1506"
+     inkscape:window-height="1028"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <rect
+       style="fill:#73f1a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2988"
+       width="320"
+       height="180"
+       x="0"
+       y="7.1054274e-15" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-872.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:58px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-5.94999981px;word-spacing:0px;fill:#222222;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab"
+       x="90.837997"
+       y="988.61218"
+       id="text3004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="90.837997"
+         y="988.61218"
+         style="font-size:58px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-5.94999981px;writing-mode:lr-tb;text-anchor:start;fill:#222222;fill-opacity:1;font-family:Montserrat Alternates;-inkscape-font-specification:Montserrat Alternates Italic">Reboot</tspan></text>
+    <g
+       id="g3020"
+       transform="translate(-78.285714,1013.3622)">
+      <path
+         id="path3010"
+         d="M 0,0 H 48 V 48 H 0 z"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </g>
+    <path
+       id="path3012"
+       d="m 71.841687,939.58296 -5.830375,0 0,29.15187 5.830375,0 z m 10.392643,7.09848 -4.212446,4.21244 c 5.028699,3.07553 8.39574,8.59981 8.39574,14.92577 0,9.66384 -7.827278,17.49111 -17.491125,17.49111 -9.663846,0 -17.491125,-7.82727 -17.491125,-17.49111 0,-6.32596 3.367041,-11.85024 8.39574,-14.92577 l -4.212446,-4.21244 C 49.569655,950.89388 45.605,957.89033 45.605,965.81965 c 0,12.8851 10.43637,23.32153 23.321499,23.32153 12.885129,0 23.321501,-10.43643 23.321501,-23.32153 0,-7.92932 -3.964655,-14.92577 -10.01367,-19.13821 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccsssccsssc"
+       style="fill:#ff7400;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-2.13000011px;word-spacing:0px;fill:#222222;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Italic"
+       x="84.557549"
+       y="945.58704"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="84.557549"
+         y="945.58704"
+         style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-2.13000011px;fill:#222222;fill-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat Italic"
+         id="tspan4190">Quick</tspan></text>
+  </g>
+</svg>
