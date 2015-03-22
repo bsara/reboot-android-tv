@@ -50,7 +50,7 @@
     <activity-alias
       android:name=".TVRebootActivity"
       android:targetActivity=".RebootActivity"
-      android:banner="@drawable/banner_quickreboot"
+      android:banner="@drawable/banner"
       android:enabled="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -62,7 +62,7 @@
     <activity-alias
       android:name=".TVQuickRebootActivity"
       android:targetActivity=".QuickRebootActivity"
-      android:banner="@drawable/banner"
+      android:banner="@drawable/banner_quickreboot"
       android:enabled="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

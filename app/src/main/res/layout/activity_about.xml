@@ -70,10 +70,11 @@
         android:text="@string/activity_about_licenseInfo" />
       <Button
         android:layout_width="match_parent"
-        android:layout_height="25sp"
+        android:layout_height="30sp"
         android:layout_marginTop="5dp"
         android:onClick="showLicense"
-        android:textAppearance="?android:textAppearanceSmall"
+        android:textAppearance="?android:textAppearance"
+        android:textStyle="bold"
         android:background="@drawable/actionitem_bkg"
         android:textColor="@color/textPrimary"
         android:text="@string/activity_about_viewLicense" />

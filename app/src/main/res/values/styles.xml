@@ -8,7 +8,7 @@
   </style>
 
 
-  <style name="AppTheme.About" parent="android:Theme.Material.DialogWhenLarge.NoActionBar">
+  <style name="AppTheme.About" parent="android:Theme.Material.NoActionBar">
     <item name="android:colorPrimary">@color/primary</item>
     <item name="android:colorPrimaryDark">@color/primaryDark</item>
     <item name="android:colorAccent">@color/accent</item>

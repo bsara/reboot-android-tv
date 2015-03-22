@@ -21,7 +21,7 @@
 
   <Space style="@style/AppTheme.Space" />
 
-  <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_settings" android:text="@string/activity_reboot_actionItem_settings_text" />
+  <TextView android:visibility="gone" style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_settings" android:text="@string/activity_reboot_actionItem_settings_text" />
   <TextView style="@style/AppTheme.ActionItem" android:id="@+id/main_actionItem_about" android:text="@string/activity_reboot_actionItem_about_text" />
 
 

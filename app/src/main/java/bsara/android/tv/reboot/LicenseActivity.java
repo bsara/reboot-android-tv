@@ -21,15 +21,12 @@ public class LicenseActivity extends Activity {
     this.setContentView(R.layout.activity_license);
 
 
-    final String licenseURL = this.getString(R.string.activity_license_url);
-
-
     WebView webView = (WebView)this.findViewById(R.id.license_webView);
     webView.getSettings().setJavaScriptEnabled(true);
     webView.setWebViewClient(new WebViewClient() {
       @Override
       public void onLoadResource(WebView view, String url) {
-        if (!url.equals(licenseURL)) {
+        if (!url.startsWith(LicenseActivity.this.getString(R.string.activity_license_url_domain))) {
           LicenseActivity.this.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
           return;
         }

@@ -24,13 +24,14 @@
   <string name="activity_about_description">This app allows you to reboot your Android TV device from the launcher home screen rather than sideloading an already existing app that won\'t show up on the default Android TV launcher.\n\nPlease note that this app is for ROOTED DEVICES ONLY.</string>
   <string name="activity_about_productURL">http://bsara.github.io/reboot-android-tv</string>
   <string name="activity_about_personalURL">https://bsara.github.io</string>
-  <string name="activity_about_copyright">Copyright © 2015 Brandon D Sara (http://bsara.github.io)</string>
+  <string name="activity_about_copyright">Copyright © 2015 Brandon Sara (http://bsara.github.io)</string>
   <string name="activity_about_licenseHeader">@string/common_license</string>
   <string name="activity_about_licenseInfo">Licensed under The Code Project Open License (CPOL) 1.02.</string>
   <string name="activity_about_viewLicense">View Full License</string>
 
   <string name="activity_license_title">@string/common_license</string>
-  <string name="activity_license_url">http://bsara.github.io/reboot-android-tv/license</string>
+  <string name="activity_license_url_domain">http://bsara.github.io</string>
+  <string name="activity_license_url">http://bsara.github.io/reboot-android-tv/license/</string>
 
   <string name="activity_prefs_title">@string/common_settings</string>
 
