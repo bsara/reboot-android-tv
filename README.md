@@ -35,7 +35,7 @@ TV launcher.
 
 ## Downloads
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=bsara.android.tv.reboot)
+- [Google Play Store](https://play.google.com/store/apps/details?id=io.github.bsara.android.tv.reboot)
 - [Direct Download](https://github.com/bsara/reboot-android-tv/releases/download/v1.0.0/bsara.android.tv.reboot_1.0.0.apk)
 
 
