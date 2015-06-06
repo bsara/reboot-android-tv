@@ -3,7 +3,7 @@
 
 [![Licensed under the CPOL v1.02](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat-square)](http://bsara.github.io/reboot-android-tv/license)
 
-[![Gitter Chat](https://badges.gitter.im/bsara/reboot-android-tv.svg)](https://gitter.im/bsara/reboot-android-tv)
+[![Gitter Chat](https://badges.gitter.im/JOIN%20CHAT.svg)](https://gitter.im/bsara/reboot-android-tv)
 
 
 This app allows you to reboot your Android TV device from the launcher home screen rather
