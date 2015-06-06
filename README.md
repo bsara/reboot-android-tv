@@ -1,7 +1,8 @@
-Reboot Android TV
+![](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/app-icon.png) Reboot Android TV
 =================
 
-[![Licensed under the CPOL v1.02](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat)](#license)
+[![Licensed under the CPOL v1.02](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat-square)](http://bsara.github.io/reboot-android-tv/license)
+
 
 This app allows you to reboot your Android TV device from the launcher home screen rather
 than sideloading an already existing app that won't show up on the default Android TV
@@ -27,21 +28,19 @@ TV launcher.
 
 
 
-### Screenshots
-
-***TODO***
-
-
-
 ## Downloads
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=io.github.bsara.android.tv.reboot)
-- [Direct Download](https://github.com/bsara/reboot-android-tv/releases/download/v1.0.0/bsara.android.tv.reboot_1.0.0.apk)
+- [Direct Download](https://github.com/bsara/reboot-android-tv/releases/download/v1.0.0/io.github.bsara.android.tv.reboot_v1.0.0.apk)
 
 
 
-## License
+## Screenshots
 
-Licensed under [The Code Project Open License (CPOL) 1.02](http://www.codeproject.com/info/cpol10.aspx).
+![Screenshot](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/play-store/screenshots/screenshot-0.png)
 
-[Full License](http://bsara.github.io/reboot-android-tv/license)
+![Screenshot](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/play-store/screenshots/screenshot-1.png)
+
+![Screenshot](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/play-store/screenshots/screenshot-2.png)
+
+![Screenshot](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/play-store/screenshots/screenshot-3.png)
