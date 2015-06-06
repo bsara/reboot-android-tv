@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/bsara/reboot-android-tv/master/app-icon.png) Reboot Android TV
 =================
 
+[![Join the chat at https://gitter.im/bsara/reboot-android-tv](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bsara/reboot-android-tv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Licensed under the CPOL v1.02](https://img.shields.io/badge/license-CPOL--1.02-blue.svg?style=flat-square)](http://bsara.github.io/reboot-android-tv/license)
 
 
