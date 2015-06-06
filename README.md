@@ -10,10 +10,10 @@ launcher.
 
 Please note that this app is for **ROOTED DEVICES ONLY**.
 
-This app was made because the Nexus Player does not come with any reboot functionality out
-of the box. The only alternative is to sideload an app that allows for rebooting, and
-before I made this app, no one else had made one that would show up in the default Android
-TV launcher.
+This app was made because the Nexus Player originally did not come with any reboot
+functionality out of the box. The only alternative is to sideload an app that allows for
+rebooting, and before I made this app, no one else had made one that would show up in the
+default Android TV launcher.
 
 #### Current Features
 
