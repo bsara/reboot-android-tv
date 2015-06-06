@@ -1,4 +1,4 @@
-package bsara.android.tv.reboot;
+package io.github.bsara.android.tv.reboot;
 
 
 
